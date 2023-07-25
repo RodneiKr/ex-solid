@@ -1,0 +1,1 @@
+ate o momento nao encontrei uma maneira de gerar um exemplo em Java.
